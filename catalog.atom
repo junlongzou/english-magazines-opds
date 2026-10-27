@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:dc="http://purl.org/dc/terms/">
+  <id>urn:english-magazines-opds:catalog</id>
+  <title>英文杂志新刊</title>
+  <updated>2026-10-27T13:45:00Z</updated>
+  <author>
+    <name>Jeffrey 的英文杂志</name>
+  </author>
+  <link rel="self" href="catalog.atom" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="start" href="catalog.atom" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>The Economist 2026.10.24</title>
+    <id>urn:english-magazines:economist:2026.10.24</id>
+    <updated>2026-10-27T13:45:00Z</updated>
+    <dc:language>en</dc:language>
+    <content type="text">The Economist, 2026年10月24日刊（EPUB）</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/master/01_economist/te_2026.10.24/TheEconomist.2026.10.24.epub"/>
+  </entry>
+  <entry>
+    <title>The New Yorker 2026.10.26</title>
+    <id>urn:english-magazines:newyorker:2026.10.26</id>
+    <updated>2026-10-27T13:45:00Z</updated>
+    <dc:language>en</dc:language>
+    <content type="text">The New Yorker, 2026年10月26日刊（EPUB）</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/master/02_new_yorker/2026.10.26/new_yorker.2026.10.26.epub"/>
+  </entry>
+  <entry>
+    <title>The Atlantic 2026.09.02</title>
+    <id>urn:english-magazines:atlantic:2026.09.02</id>
+    <updated>2026-10-27T13:45:00Z</updated>
+    <dc:language>en</dc:language>
+    <content type="text">The Atlantic, 2026年9月2日刊（EPUB）</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/master/04_atlantic/2026.09.02/Atlantic_2026.09.02.epub"/>
+  </entry>
+  <entry>
+    <title>Wired 2026.10.02</title>
+    <id>urn:english-magazines:wired:2026.10.02</id>
+    <updated>2026-10-27T13:45:00Z</updated>
+    <dc:language>en</dc:language>
+    <content type="text">Wired, 2026年10月2日刊（EPUB）</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://raw.githubusercontent.com/hehonghui/awesome-english-ebooks/master/05_wired/2026.10.02/wired_2026.10.02.epub"/>
+  </entry>
+</feed>
